@@ -1,0 +1,11 @@
+
+
+Django==3.2
+
+djangorestframework==3.13.1
+Flask==2.0.3
+
+
+pip install django==3.2
+pip install djangorestframework==3.13.1
+pip install flask==2.0.3
